@@ -1,0 +1,14 @@
+C:\Users\eyupa\source\repos\ATC-1\ATC-1\bin\Debug\netcoreapp3.1\ATC-1.exe
+C:\Users\eyupa\source\repos\ATC-1\ATC-1\bin\Debug\netcoreapp3.1\ATC-1.deps.json
+C:\Users\eyupa\source\repos\ATC-1\ATC-1\bin\Debug\netcoreapp3.1\ATC-1.runtimeconfig.json
+C:\Users\eyupa\source\repos\ATC-1\ATC-1\bin\Debug\netcoreapp3.1\ATC-1.runtimeconfig.dev.json
+C:\Users\eyupa\source\repos\ATC-1\ATC-1\bin\Debug\netcoreapp3.1\ATC-1.dll
+C:\Users\eyupa\source\repos\ATC-1\ATC-1\bin\Debug\netcoreapp3.1\ATC-1.pdb
+C:\Users\eyupa\source\repos\ATC-1\ATC-1\obj\Debug\netcoreapp3.1\ATC-1.csproj.AssemblyReference.cache
+C:\Users\eyupa\source\repos\ATC-1\ATC-1\obj\Debug\netcoreapp3.1\ATC-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eyupa\source\repos\ATC-1\ATC-1\obj\Debug\netcoreapp3.1\ATC-1.AssemblyInfoInputs.cache
+C:\Users\eyupa\source\repos\ATC-1\ATC-1\obj\Debug\netcoreapp3.1\ATC-1.AssemblyInfo.cs
+C:\Users\eyupa\source\repos\ATC-1\ATC-1\obj\Debug\netcoreapp3.1\ATC-1.csproj.CoreCompileInputs.cache
+C:\Users\eyupa\source\repos\ATC-1\ATC-1\obj\Debug\netcoreapp3.1\ATC-1.dll
+C:\Users\eyupa\source\repos\ATC-1\ATC-1\obj\Debug\netcoreapp3.1\ATC-1.pdb
+C:\Users\eyupa\source\repos\ATC-1\ATC-1\obj\Debug\netcoreapp3.1\ATC-1.genruntimeconfig.cache
